@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+}
+#titulo {
+  position: absolute;
+  width: 1225px;
+  height: 100px;
+  background-color: #6A5ACD;
+  margin-top: 15px;
+  font-family: "Times New Roman";
+
+}
+
+body {
+  background: #FFFFFF url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18977518.jpg") repeat right top fixed;
+}
